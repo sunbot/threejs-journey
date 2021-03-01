@@ -1,0 +1,15 @@
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+.npmrc
+npm-debug.log
+node_modules/
+dist/
+*.tgz
+
+.tmp/
+.yarn-cache.tgz
+yarn-error.log
